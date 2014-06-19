@@ -387,7 +387,11 @@
       <created>1403192658487</created>
       <updated>1403192658487</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="se ha agregado el aplicativo de django palabras">
+      <created>1403192982671</created>
+      <updated>1403192982671</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
